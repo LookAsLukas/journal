@@ -1,2 +1,0 @@
-CompileFlags:
-  Add: [-I lib, -xc++-header, -std=c++17]
